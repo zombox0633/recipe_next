@@ -1,8 +1,7 @@
 color 😾
 light theme dark theme
 
-https://coolors.co/fdf7e7-252323
-
+https://coolors.co
 ref 😾
 https://www.awwwards.com/sites/heydaysss-company-website
 https://www.awwwards.com/sites/nick-blanchard-portfolio
@@ -17,13 +16,12 @@ font 😾
 https://fonts.google.com/specimen/Caveat?preview.text=Recipe
 https://fonts.google.com/specimen/Dancing+Script?preview.text=Recipe
 
-https://fonts.google.com/noto/specimen/Noto+Sans+Mono?categoryFilters=Feeling:%2FExpressive%2FCalm
-
-https://www.facebook.com/photo/?fbid=9822478847859509&set=gm.9559222457515948&idorvanity=647718825333067
-
 package 😾
 https://tanstack.com/query/v5/docs/framework/react/overview
 
 https://zustand-demo.pmnd.rs/
 
 https://editorjs.io/
+
+
+steam-a181-161552873
