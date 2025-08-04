@@ -22,6 +22,3 @@ https://tanstack.com/query/v5/docs/framework/react/overview
 https://zustand-demo.pmnd.rs/
 
 https://editorjs.io/
-
-
-steam-a181-161552873
