@@ -1,6 +1,7 @@
 import Image from 'next/image'
 
 export default function MyRecipesPage() {
+
   return (
     <div className="flex h-full items-center justify-center">
       <div className="flex w-full justify-around">
@@ -34,7 +35,7 @@ export default function MyRecipesPage() {
             />
           </div>
         </div>
-        <div className="w-64 bg-white shadow-2xl">
+        <div className="w-64 bg-white shadow-2xl rounded-md overflow-hidden">
           <div className="relative h-80 w-full">
             <Image
               fill
